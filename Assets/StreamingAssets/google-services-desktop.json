@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "666186676829",
+    "firebase_url": "https://traineeproject-e47bf-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "traineeproject-e47bf",
+    "storage_bucket": "traineeproject-e47bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666186676829:android:a21dabf00b5d5eab076bb4",
+        "android_client_info": {
+          "package_name": "com.BGgames.Runner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDkuetMF0Sfx4qHs8_-3FcKkbdHWaaJPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
